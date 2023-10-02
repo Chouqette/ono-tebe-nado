@@ -123,14 +123,11 @@ address {
   padding: 0px 50px 50px 0px;
 }
 
-h3 {
+.cover__description-text {
   color: #fff;
   font-size: 22px;
   font-style: normal;
   text-transform: uppercase;
-}
-
-.cover__description-text {
   word-spacing: 18.1px;
   display: flex;
   align-items: center;
@@ -312,7 +309,7 @@ footer {
   justify-content: space-between;
 }
 
-.footer__social-link {
+.footer__social-list-item {
   display: block;
   height: 48px;
   width: 48px;
