@@ -308,6 +308,7 @@ footer {
 
 .footer__social-list {
   display: flex;
+  height: 48px;
   justify-content: space-between;
 }
 
