@@ -193,10 +193,6 @@ body {
   border-bottom: 1px solid #000;
 }
 
-.card {
-  height: 450px;
-}
-
 .card_type_film {
   background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../images/card-lot-01.jpg);
   background-position: center;
@@ -224,6 +220,7 @@ body {
 .card {
   display: flex;
   flex-direction: column;
+  height: 450px;
   justify-content: space-between;
   padding: 50px 40px 50px 40px;
 }
